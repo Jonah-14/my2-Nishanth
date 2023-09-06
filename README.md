@@ -9,3 +9,7 @@ It has **giant**,ancient sequoia trees and the **tunnel** view
 1. Yosemite valley
 2. Tunnel view
 3. Glacier point
+
+- Pizza
+- BBQ salads
+- Rice bowls
