@@ -13,3 +13,5 @@ It has **giant**,ancient sequoia trees and the **tunnel** view
 - Pizza
 - BBQ salads
 - Rice bowls
+
+[Link to MyStats.md](https://github.com/Jonah-14/my2-Nishanth/blob/main/MyStats.md)
