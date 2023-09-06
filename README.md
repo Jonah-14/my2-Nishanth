@@ -35,7 +35,7 @@ sports encompass a wide range of activities that challenge individuals and teams
 ## Pithy quotes
 
 > Science is not only a discipline of reason but also one of romance and passion
-  - *Stephen Hawking*
+  — *Stephen Hawking*
 
 > The important thing is not to stop questioning. Curiosity has its own reason for existing.
- - *Albert Einstein*
+  — *Albert Einstein*
