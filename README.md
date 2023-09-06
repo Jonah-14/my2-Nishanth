@@ -24,14 +24,9 @@ It has **giant**,ancient sequoia trees and the **tunnel** view
 
 sports encompass a wide range of activities that challenge individuals and teams to showcase their skills, determination, and passion
 
-| **Name of the sport** | **Reason to recommend** | **AVG.Time of participation** |
-|---------------------------------------------------------------------------------|
-| Badminton             |  Increases Handpower    |                               |
-
-| Cricket               |  physical fitness       |                               |
-
-| Basket ball           |   Improves focus        |                               |
-
-| Squash                |   mental strength       |                               |
-
-|                       |                         |                               |
+| **Name of the sport** | **Reason to recommend** | **AVG.Time/week of participation** |
+|-----------------------|-------------------------|------------------------------------|
+| Badminton             |  Increases Handpower    |      2 hours                       |
+| Cricket               |  physical fitness       |      3 hours                       |
+| Basket ball           |   Improves focus        |      2 hour                        |
+| Squash                |   mental strength       |      1 hour                        |
