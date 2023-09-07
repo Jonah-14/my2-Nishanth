@@ -39,3 +39,27 @@ sports encompass a wide range of activities that challenge individuals and teams
 
 > The important thing is not to stop questioning. Curiosity has its own reason for existing.
   — *Albert Einstein*
+
+  ****
+  ## Code Snippet
+
+```
+
+require('textmagic-sms-api-php/TextMagicAPI.php');
+
+$username = 'myusername';
+$password = 'mypassword'
+
+$router = new TextMagicAPI(array(
+	'username' => $username,
+	'password' => $password
+));
+
+$result = $router->send('Wake up!', array(6605287340), true);
+
+```
+> " Send a text message in php "
+[Link to stackoverflow](https://stackoverflow.com/questions/57423991/how-send-sms-in-php)
+
+
+[Link to css-ticks/snippet/php](https://css-tricks.com/snippets/php/send-a-text-message/)
